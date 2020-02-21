@@ -56,6 +56,7 @@ MIDDLEWARE = [
 
 CORS_ORIGIN_WHITELIST = (
     'http://localhost:3000',
+    'https://vibrant-allen-c70d65.netlify.com'
 )
 
 ROOT_URLCONF = 'api.urls'
